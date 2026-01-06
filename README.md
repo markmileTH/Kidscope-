@@ -34,10 +34,12 @@
 
 ## 🧩 Hardware ที่ใช้
 
-- ESP32
+- ESP32 (ESP32 Cheap Yellow Display Board – CYD (ESP32-2432S028)
 - TFT Display (Library: `TFT_eSPI`)
 - ปุ่มกด 1 ปุ่ม
 - Backlight Control (GPIO 21)
+- <img width="511" height="252" alt="Screenshot 2026-01-06 114707" src="https://github.com/user-attachments/assets/18ceb655-68a8-4a2a-91d1-54e178e884ca" />
+
 
 ---
 
